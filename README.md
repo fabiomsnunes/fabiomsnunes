@@ -64,6 +64,13 @@ I also build custom software from scratch (internal tools, CRMs, client portals)
       Native macOS window manager with cycling zones. Just something I missed from Windows.
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/fabiomsnunes/orca-claude-bridge"><b>🖨️ Orca Claude Bridge</b></a><br/>
+      OrcaSlicer plugin and CLI that let Claude Code read and change the live slicer settings while the app is open.
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 <br/>
