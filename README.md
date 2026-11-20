@@ -69,7 +69,10 @@ I also build custom software from scratch (internal tools, CRMs, client portals)
       <a href="https://github.com/fabiomsnunes/orca-claude-bridge"><b>🖨️ Orca Claude Bridge</b></a><br/>
       OrcaSlicer plugin and CLI that let Claude Code read and change the live slicer settings while the app is open.
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <a href="https://github.com/fabiomsnunes/task-prompt-launcher-for-clickup"><b>🚀 Task Prompt Launcher for ClickUp</b></a><br/>
+      Chrome/Brave extension that opens a ClickUp task in Claude Code, Codex, Claude.ai or ChatGPT with a prompt built from the task.
+    </td>
   </tr>
 </table>
 
